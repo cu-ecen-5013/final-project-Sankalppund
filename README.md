@@ -1,27 +1,21 @@
-# buildroot-rpi
+# ECEN 5013 AESD - Final Project Repository
 
+**Owner of the Repository - Sankalp Pund (GitHub ID: sankalppund)**
 
-We will be using rpi3
+This repository contains the final project submissions made by **Sankalp Pund** for the ECEN 5013 AESD (Spring-20) class which is developed in collaboration with contributions from **Suraj Thite** and **Saket Penurkar**.
 
-Configuration of rpi  for Buildroot:
-----------------------------
-For models A, B, A+ or B+:
+**This repository contains the _Buildroot Source Code for RPI-2_ for the final project.**
 
-  $ make raspberrypi_defconfig
+**Wiki Page**
+[Project Overview Wiki Page](https://github.com/cu-ecen-5013/final-project-surajthite/wiki/Project-Overview)
 
-For model Zero (model A+ in smaller form factor):
+**Project Schedule**
+[Project Schedule Page](https://github.com/cu-ecen-5013/final-project-surajthite/wiki/Final-Project-Schedule-Page)
 
-  $ make raspberrypi0_defconfig
+**Team Members**
 
-For model 2 B:
+[Sankalp's Repository](https://github.com/cu-ecen-5013/final-project-Sankalppund)
 
-  $ make raspberrypi2_defconfig
+[Suraj's Repository](https://github.com/cu-ecen-5013/final-project-surajthite)
 
-For model 3 B and B+:
-
-  $ make raspberrypi3_defconfig
-
-For model 4 B:
-
-  $ make raspberrypi4_defconfig
-
+[Saket's Repository](https://github.com/cu-ecen-5013/final-project-SaketPenurkar)
