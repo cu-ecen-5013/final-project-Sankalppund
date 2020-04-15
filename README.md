@@ -10,7 +10,7 @@ This repository contains the final project submissions made by **Sankalp Pund** 
 [Project Overview Wiki Page](https://github.com/cu-ecen-5013/final-project-surajthite/wiki/Project-Overview)
 
 **Project Schedule**
-[Project Schedule Page](https://github.com/cu-ecen-5013/final-project-surajthite/wiki/Final-Project-Schedule-Page)
+[Project Schedule Page](https://github.com/cu-ecen-5013/final-project-surajthite/wiki/Project-Schedule-Page)
 
 **Team Members**
 
