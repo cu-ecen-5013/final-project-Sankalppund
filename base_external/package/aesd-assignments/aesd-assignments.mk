@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = 459304c70295ef225b1fee7c0e1c688fa71f818f
+AESD_ASSIGNMENTS_VERSION = 4fc57949bd5c0aa1711f62ccefe55b954a21cd69
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-5013/s20-remote-health-monitoring.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
